@@ -10,7 +10,7 @@ void greet()
 
 void goodbye()
 {
-	cout << "Adios!\n\n\n";
+	cout << "Sayonara!\n\n\n";
 
 	cout << "suckers..." << endl;
 }
@@ -18,5 +18,6 @@ void goodbye()
 int main()
 {	
 	greet();
+	goodbye();
 
 }
