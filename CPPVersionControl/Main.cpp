@@ -1,7 +1,9 @@
 #include <iostream>
+#include <string>
+using namespace std;
 
 int main()
 {
-	std::cout << "Main function" << std::endl << std::endl;
+	cout << "Main function" << endl << endl;
 
 }
