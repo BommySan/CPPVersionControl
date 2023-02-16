@@ -5,7 +5,14 @@ using namespace std;
 void greet()
 {
 //Print to screen.
-	cout << "Hello and Welcome!" << endl << endl;
+	cout << "Welcome to the Show!" << endl << endl;
+}
+
+void goodbye()
+{
+	cout << "Adios!\n\n\n";
+
+	cout << "suckers..." << endl;
 }
 
 int main()
