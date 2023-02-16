@@ -3,7 +3,8 @@
 using namespace std;
 
 int main()
-{
-	cout << "Main function" << endl << endl;
+{	
+	//Print to screen.
+	cout << "Welcome!" << endl << endl;
 
 }
